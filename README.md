@@ -106,3 +106,6 @@ Would you like to participate? Feel free to make a pull request and share your b
 ## Pricing Research
 - [Conducting Pricing Research & Experimentation](https://www.menlovc.com/blog/conducting-pricing-research-and-experimentation)
 []()
+
+## TEST AT
+- [A Standard Pricing Model for Open Core](https://thenewstack.io/a-standard-pricing-model-for-open-core/)
